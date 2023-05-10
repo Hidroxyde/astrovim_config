@@ -1,8 +1,14 @@
-# AstroNvim User Configuration Example
-
-A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+# My AstroNvim config
 
 ## 🛠️ Installation
+
+## Install Nvim
+
+###MacOS
+'''shell
+brew install neovim
+'''
+
 
 #### Make a backup of your current nvim and shared folder
 
@@ -26,7 +32,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim/lua/user
+git clone https://github.com/Hidroxyde/astrovim_config ~/.config/nvim/lua/user
 ```
 
 #### Start Neovim
