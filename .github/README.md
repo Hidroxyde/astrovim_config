@@ -5,9 +5,9 @@
 ## Install Nvim
 
 ###MacOS
-'''shell
+```shell
 brew install neovim
-'''
+```
 
 
 #### Make a backup of your current nvim and shared folder
